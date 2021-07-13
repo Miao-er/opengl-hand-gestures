@@ -1,6 +1,5 @@
 
-// Hand Example
-// Author: Yi Kangrui <yikangrui@pku.edu.cn>
+
 
 #define _CRT_SECURE_NO_WARNINGS
 
